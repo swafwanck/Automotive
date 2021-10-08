@@ -1234,4 +1234,9 @@
       width:70%;
     }
   }
- 
+  @media all and (max-width:280px){
+    .mobile-menu{
+      width:70%;
+    }
+
+}
