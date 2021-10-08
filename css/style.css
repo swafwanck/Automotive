@@ -176,7 +176,7 @@
   }
   .mobile-menu {
     list-style: none;
-    text-align: center;
+    text-align: left;
     width: 50%;
     position: fixed;
     right: -100%;
@@ -1102,7 +1102,9 @@
     div.address p{
       font-size: 18px;
     }
-
+     .mobile-menu{
+         width:70%;
+      }
   }
   @media all and (max-width:380px) {
     .menu-bar {
@@ -1231,7 +1233,5 @@
     .mobile-menu{
       width:70%;
     }
-    
-
   }
  
