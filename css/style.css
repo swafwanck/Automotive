@@ -177,9 +177,9 @@
   .mobile-menu {
     list-style: none;
     text-align: left;
-    width: 60%;
+    width: 50%;
     position: fixed;
-    right: -100%;
+    right: -150%;
     height: 100vh;
     top: 0;
     z-index: 44;
