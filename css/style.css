@@ -1225,6 +1225,8 @@
     div.address p{
       font-size: 18px;
     }
-
+    .mobile-menu{
+       width:300px;
+     }
   }
  
